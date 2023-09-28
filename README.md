@@ -4,9 +4,9 @@ Welcome to my repository! This space is dedicated to showcasing my skills and ex
 
 ## Table of Contents
 
-- [Education](#Education-)
-- [Experience](#experience-)
-- [Certifications courses and self formation](#certifications-courses-and-self-formation)
+- [Education](Education.md)
+- [Experience](Experience.md)
+- [Certifications courses and self formation](Certifications.md)
 - [Projects](Projects.md)
 - [Skills](Skills.md)
 - [Interests](Interests.md)
@@ -41,6 +41,22 @@ Throughout my professional journey, I've had the opportunity to work on diverse 
 - Worked with products including BigQuery, CloudStorage, VertexAI, Cloud Composer, Dataflow, Dataproc, and more.
 - Utilized technologies such as Docker, Kubernetes, Spark, Hadoop, SQL, Git, NoSQL, and Networking.
 - Demonstrated skills in customer service communication, documentation review, bug reports, video call assistance, and Google Cloud Platform troubleshooting.
+
+### External Collaborator at [URBots](https://www.urbots.org/) 
+**Duration**: [Sep 2018] - [Jun 2021]
+- Actively collaborated as an engineer on various robotics-based projects, including autonomous driving research. 
+- Played a pivotal role in computer vision, artificial intelligence, and programming tasks. 
+- Utilized a diverse tech stack including Arduino, Python, and Linux. 
+- Worked with hardware components such as Raspberry Pi, LIDAR, Kinect, and employed computer vision libraries for project enhancements. 
+- Implemented communication modules leveraging Bluetooth and other technologies. 
+### Software Engineer Internship at [Tecnodac Solutions](https://www.technodac.com/es/technodac.html)
+**Duration**: [Sep 2019] - [Mar 2020]
+- Engaged in both front-end and back-end development, leveraging the Laravel framework.
+- Utilized a diverse tech stack including PHP, SQL, HTML, CSS, and Bootstrap.
+- Worked collaboratively with Git, ensuring code consistency and version control.
+- Took an active role in project collaborations, contributing to various stages from ideation to deployment.
+- Interfaced directly with clients, gathering requirements and ensuring their needs were met.
+- Employed testing methodologies to ensure software quality and reliability.
 
 
 ## Certifications courses and self formation 🎓
