@@ -10,7 +10,7 @@ Welcome to my repository! This space is dedicated to showcasing my skills and ex
 - [Certifications](Certifications.md)
 - [Interests](Interests.md)
 - [Skills](Skills.md)
-- [Contact](##Contact)()
+- [Contact](##Contact)(##Contact)
 
 ## Contact 📞
 
