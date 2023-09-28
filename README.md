@@ -4,13 +4,13 @@
 Welcome to my repository! This space is dedicated to showcasing my skills and experiences across various roles in the tech industry. Whether you're looking to understand my capabilities as a Software Engineer or delve deep into my projects as a Data Engineer, this repository serves as a comprehensive guide to my professional journey.
 
 ## Table of Contents
-- [[Education]]
-- [[Experience]]
-- [[Projects]]
-- [[Certifications]]
-- [[Interests]]
-- [[Skills]]
-- [Contact](##Contact)
+- [Education](Education.md)
+- [Experience](Experience.md)
+- [Projects](Projects.md)
+- [Certifications](Certifications.md)
+- [Interests](Interests.md)
+- [Skills](Skills.md)
+- [Contact](##Contact)()
 
 ## Contact 📞
 
