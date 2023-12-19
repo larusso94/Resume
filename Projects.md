@@ -1,0 +1,1 @@
+- [Coursera Machine Learning Exercises](https://github.com/larusso94/Coursera-Machine-learning-exercises) - A series of exercises covering fundamental machine learning concepts, implemented in MATLAB, as part of Andrew Ng's Machine Learning course on Coursera.

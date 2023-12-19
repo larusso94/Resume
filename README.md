@@ -1,6 +1,6 @@
-# Lautaro Russo - Software Developer & Data Engineer
+# Lautaro Russo - Machine Learning & Data engineer
 
-Welcome to my repository! This space is dedicated to showcasing my skills and experiences across various roles in the tech industry. Whether you're looking to understand my capabilities as a Software Engineer or delve deep into my projects as a Data Engineer, this repository serves as a comprehensive guide to my professional journey.
+Welcome to my repository! This space is dedicated to showcasing my skills and experiences across various roles in the tech industry. Whether you're looking to understand my capabilities as a Machine Learning Engineer or delve deep into my projects as a Data Engineer, this repository serves as a comprehensive guide to my professional journey.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to my repository! This space is dedicated to showcasing my skills and ex
 
 ## Education 🎓
 
-I pursued my [Bachelor's degree](#computer-science-bachelor-degree) in Computer Science from [Rovira i Virgili University](https://www.urv.cat/). During this time, I delved deep into the major Computer Science fundamentals. My dedication to the field was further demonstrated as I took on roles like a class representative and collaborated with initiatives like [URBots](https://www.urbots.org/) Robotics Association. Additionally, I had the privilege to engage with the GDG Tarragona community.
+I pursued my [Bachelor's degree](#computer-science-bachelor-degree) in Computer Science from [Rovira i Virgili University](https://www.urv.cat/). During this time, I delved deep into the major Computer Science fundamentals. My dedication to the field was further demonstrated as I took on roles like a class representative and collaborated with initiatives like [URBots](https://www.urbots.org/) Robotics Association. Additionally, I had the privilege to engage with the [GDG Tarragona](https://www.gdgtarragona.com/) community.
 
 My academic journey also took me to the [Norwegian University of Science and Technology - NTNU](https://www.ntnu.edu/) as an [Erasmus+ Experience](#erasmus-experience-computer-science-bachelor-degree) for a complete academic year in Computer Science Bachelors. This opportunity allowed me to specialize in areas like Computer Vision, Machine Learning, Recommendation Systems, Multivariate Data Analysis, Cloud Environments and Parallel Computing.
 
@@ -31,9 +31,11 @@ These experiences have given me a comprehensive foundation in the world of compu
 Throughout my professional journey, I've had the opportunity to work on diverse projects, collaborate with talented individuals, and develop a broad set of skills. Here's a brief overview of my work experiences: 
 ### Data Scientist at [Biorem | Biomedical Engineering](https://biorem.cat/)
 **Duration**: [May 2023] - [Sep 2023] 
-- Spearheaded the creation and management of ETL pipelines, ensuring timely data ingestion and processing. 
-- Worked extensively with distributed systems, columnar databases, and real-time processing frameworks. 
-- Collaborated with the data science team to deploy and maintain machine learning models in production. 
+As a Junior Data Engineer at BIOREM, a burgeoning small company, I immersed myself in various facets of data engineering over five months. My contributions included:  
+  
+- Development of data-driven strategies engaging in data extraction and organization from document repositories.  
+- Collaborative research, applying problem-solving skills in real-world scenarios analyzing and modeling through machine learning, computer vision and natural language processing.  
+- Consolidating technologies like MySQL, Linux, Git, SQL, Docker in cloud environments.
 
 ### Data Engineering Solutions Representative at [Webhelp](https://webhelp.com/)
 **Duration**: Feb 2023 - Apr 2023
@@ -44,19 +46,11 @@ Throughout my professional journey, I've had the opportunity to work on diverse 
 
 ### External Collaborator at [URBots](https://www.urbots.org/) 
 **Duration**: [Sep 2018] - [Jun 2021]
-- Actively collaborated as an engineer on various robotics-based projects, including autonomous driving research. 
-- Played a pivotal role in computer vision, artificial intelligence, and programming tasks. 
-- Utilized a diverse tech stack including Arduino, Python, and Linux. 
-- Worked with hardware components such as Raspberry Pi, LIDAR, Kinect, and employed computer vision libraries for project enhancements. 
-- Implemented communication modules leveraging Bluetooth and other technologies. 
+Engaged as a part of a team for autonomous driving competitions achieving top results.  
+Led Machine Learning and AI educational sessions for under graduate students.
 ### Software Engineer Internship at [Tecnodac Solutions](https://www.technodac.com/es/technodac.html)
 **Duration**: [Sep 2019] - [Mar 2020]
-- Engaged in both front-end and back-end development, leveraging the Laravel framework.
-- Utilized a diverse tech stack including PHP, SQL, HTML, CSS, and Bootstrap.
-- Worked collaboratively with Git, ensuring code consistency and version control.
-- Took an active role in project collaborations, contributing to various stages from ideation to deployment.
-- Interfaced directly with clients, gathering requirements and ensuring their needs were met.
-- Employed testing methodologies to ensure software quality and reliability.
+Developed data engineering projects, supporting both front-end and back-end development.
 
 
 ## Certifications courses and self formation 🎓
